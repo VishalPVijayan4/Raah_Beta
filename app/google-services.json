@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1082270148462",
+    "firebase_url": "https://raah-1b60f-default-rtdb.firebaseio.com",
+    "project_id": "raah-1b60f",
+    "storage_bucket": "raah-1b60f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082270148462:android:220bade5714b201efd837f",
+        "android_client_info": {
+          "package_name": "com.buildndeploy.raah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082270148462-3srp0gphs0mm0pahbs7t4ie8jro8ut0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buildndeploy.raah",
+            "certificate_hash": "64e2ee721864aff8895088eb344715584505a91e"
+          }
+        },
+        {
+          "client_id": "1082270148462-hcdcge9lq34ust0jfu9alrn0hl7u3trc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl0E-775ABgWFSRIN6O1NK2X7yZry2EtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082270148462-hcdcge9lq34ust0jfu9alrn0hl7u3trc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
